@@ -1,4 +1,4 @@
-**Projeto final: Análise de Sentimentos - Classificador de SPAM**
+**Análise de Sentimentos - Classificador de SPAM**
 
 Bem-vind@ ao projeto final do Workshop4her - 2023!
 A ideia é aplicar os conhecimentos adquiridos no encontro de imersão, através do desenvolvimento de um classificador de spam! 
