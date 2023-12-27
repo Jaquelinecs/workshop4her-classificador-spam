@@ -20,3 +20,8 @@ Sua contribuição é valiosa! Fique à vontade para propor melhorias, relatar p
 
 
 Vamos transformar dados em emoções e criar algo extraordinário! 🚀📊✨
+
+
+<div style=|"display: inline_block"><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
